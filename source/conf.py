@@ -1,7 +1,7 @@
-project = 'RapidVideOCR'
-copyright = '2023, SWHL'
-author = 'SWHL'
-release = 'v2.1.6'
+project = 'productblog'
+copyright = '2023, tennie1996'
+author = 'tennie'
+release = 'v1.0'
     
 extensions = [
     'myst_parser',
